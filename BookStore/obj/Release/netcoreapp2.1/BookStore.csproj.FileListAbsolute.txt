@@ -1,0 +1,80 @@
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.deps.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfo.cs
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.dll
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.pdb
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.deps.json
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.runtimeconfig.json
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.dll
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.pdb
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.Views.dll
+Z:\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.Views.pdb
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.TagHelpers.input.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.TagHelpers.output.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.Views.pdb
+Z:\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CopyComplete
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.deps.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.Views.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Release\netcoreapp2.1\BookStore.Views.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.TagHelpers.input.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.TagHelpers.output.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.Views.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CopyComplete
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.dll
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.pdb
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.TagHelpers.input.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.TagHelpers.output.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.dll
+C:\GDrive\devl\BookStore\BookStore\obj\Release\netcoreapp2.1\BookStore.pdb

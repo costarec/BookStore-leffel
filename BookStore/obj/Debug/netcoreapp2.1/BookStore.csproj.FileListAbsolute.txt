@@ -1,0 +1,149 @@
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+D:\UW\lleffel - BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\UW\lleffel - BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\UW\lleffel - BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\UW\lleffel - BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\UW\lleffel - BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\UW\lleffel - BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\argen\OneDrive for Business\Classes\Autumn_2018\Asp Net Core\Working_Copy\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+Z:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+Z:\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+H:\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete
+H:\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\lleff\OneDrive - UW\Documents\BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\argen\UW\lleffel - BookStore\Checkpoint_05Dec\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.input.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.TagHelpers.output.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorCoreGenerate.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.dll
+C:\GDrive\devl\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.Views.pdb
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cs
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.Views.pdb
+C:\GDrive\devl\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CopyComplete

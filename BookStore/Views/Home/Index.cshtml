@@ -1,0 +1,38 @@
+﻿@*
+        //////////////////////////////////////////////////////////////////////
+    ///Change History
+    ///Developer    Date    Description
+    ///Argenis      11/27   Added basic HTML 5 formatting and a foreach razor loop, added the ViewModel
+                            The model used for these pies is going to be books and can be specified with the @model tag
+    ///Argenis      12/05   Added classes to the div and added a div with lass caption, pull-right to the project
+                            taken from the Pluralsight tutorial, in order to style
+*@
+@model BookStore.ViewModels.HomeViewModel
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+
+    <h2> @Model.PageTitle</h2>
+
+    @foreach (var book in Model.Books)
+    {
+        // The class enables the bootstrap, implemented the methods for thumbnail pictures and description,
+        // and they were changed from last time that it was implemented in accordance to the tutorial
+    <div class="col-sm-4 col-lg-4 col-md-4">
+        <img src="@book.PicThumbnail" alt="">
+        <div class="caption">
+            @*This will show the price of the book as a string and formatted as "currency"*@
+            <h3 class="pull-right"> @book.PriceOfBook.ToString("c")</h3>
+            <h3>
+                @book.BookTitle
+            </h3>
+            <p>@book.BookDescription</p>
+
+        </div>
+    </div>
+    }
+
+</body>
+</html>

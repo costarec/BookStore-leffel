@@ -1,0 +1,22 @@
+﻿/*  Developer   Date    Description
+    Argenis     11/05   Added the body and .body-content formatting
+                        from the Gill Cleeren Pluralsight tutorial
+    Laurie      12/05   Added path for background image
+    Laurie      12/05   Edited thumbnail images to discard white space
+
+*/
+
+/* Background image came from
+    https://benishop.co/post/60237/12773468153/blue-and-grey-wallpaper/dark-blue-grey-background-www-pixshark-com-images-galleries-with-a-bite.html
+*/
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url('/Images/Background/background.jpg');
+    background-repeat: repeat;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
